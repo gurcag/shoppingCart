@@ -1,5 +1,9 @@
 # shoppingCart
 
+A simple shopping cart study on .net Core.
+
+Some important software development principles are applied, which are OOP, Design Patterns, Dependency Injection, SOLID, DRY, Clean Code and Unit Testing(xUnit).
+
 Important business rules are explained below :
 
 Products are belong to a category.
