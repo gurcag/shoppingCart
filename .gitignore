@@ -1,0 +1,7 @@
+ShoppingCart.ConsoleApp/bin
+ShoppingCart.ConsoleApp/obj
+ShoppingCart.Core/bin
+ShoppingCart.Core/obj
+Tests/ShoppingCart.Core.Test/obj
+Tests/ShoppingCart.Core.Test/bin
+*.user

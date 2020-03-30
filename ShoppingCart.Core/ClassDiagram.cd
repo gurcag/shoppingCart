@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="ShoppingCart.Core.Cart.Interfaces.ICart">
+    <Position X="6.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgIAQCCEAAAAAQAAQAAAAAAAAAAAAAAAEBAA=</HashCode>
+      <FileName>Cart\Interfaces\ICart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Cart.Interfaces.ICartItem">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAIAAAAAAAAAAQAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Cart\Interfaces\ICartItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Discount.Interfaces.IAmountCampaign">
+    <Position X="0.5" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount\Interfaces\IAmountCampaign.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Discount.Interfaces.IAmountCoupon">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount\Interfaces\IAmountCoupon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Discount.Interfaces.ICampaign">
+    <Position X="1" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAEAAEAACAA=</HashCode>
+      <FileName>Discount\Interfaces\ICampaign.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Discount.Interfaces.ICoupon">
+    <Position X="1" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AoAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount\Interfaces\ICoupon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Discount.Interfaces.IRateCampaign">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount\Interfaces\IRateCampaign.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Discount.Interfaces.IRateCoupon">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Discount\Interfaces\IRateCoupon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Common.Interfaces.ICategory">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Common\Interfaces\ICategory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Common.Interfaces.IProduct">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Common\Interfaces\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShoppingCart.Core.Delivery.Interfaces.IDeliveryCostCalculator">
+    <Position X="12.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delivery\Interfaces\IDeliveryCostCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
