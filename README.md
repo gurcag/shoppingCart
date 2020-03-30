@@ -11,8 +11,14 @@ The Shopping Cart Service will choose the best of each one. In other words maxim
 
 Console App execution result screenshot is below.
 
+![ConsoleApp execution Screenshot](https://raw.githubusercontent.com/gurcag/shoppingCart/master/shoppingCartCmd.PNG)
 
-Unit Test exeution results is below. All unit tests are passed.
+
+Unit Test exeution results are below. All unit tests are passed.
+
+![Unit Test exeution result](https://raw.githubusercontent.com/gurcag/shoppingCart/master/shoppingCartTestResult.PNG)
 
 
 Class Diagram of interfaces is below.
+
+![Class Diagram](https://raw.githubusercontent.com/gurcag/shoppingCart/master/shoppingCartClassDiagram.PNG)
